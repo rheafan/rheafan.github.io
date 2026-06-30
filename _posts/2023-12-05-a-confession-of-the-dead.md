@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "A Confession of the Dead"
-![*Orpheus Leading Eurydice from the Underworld*](https://upload.wikimedia.org/wikipedia/commons/b/b8/Jean-Baptiste-Camille_Corot_-_Orpheus_Leading_Eurydice_from_the_Underworld_-_Google_Art_Project.jpg)
+subtitle: inspired by *Orpheus Leading Eurydice from the Underworld* by Jean-Baptiste-Camille-Corot
 ---
+
+![*Orpheus Leading Eurydice from the Underworld*](https://upload.wikimedia.org/wikipedia/commons/b/b8/Jean-Baptiste-Camille_Corot_-_Orpheus_Leading_Eurydice_from_the_Underworld_-_Google_Art_Project.jpg)
+
 We watch from the trees as he takes her by the hand,
 fingers entwined in a promise, 
 the boy whose mellifluous song poured
