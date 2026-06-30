@@ -3,11 +3,11 @@ layout: post
 title: "An American Paradox: Hopeful Pessimism or Cynical Optimism?"
 subtitle: "A Synthesis Essay on Steinbeck's “What is Happening to America?” & Crevecoeur's “What is an American?”"
 ---
-
-### *{{ page.subtitle }}*
-
+##### *{{ page.subtitle }}*
 ---
-#### “In nothing are we so paradoxical as in our passionate belief in our own myths.” - John Steinbeck
+<br></br>
+###### “In nothing are we so paradoxical as in our passionate belief in our own myths.” 
+-- John Steinbeck
  
 Unlike many folk legends, America at its beginning was not unoccupied but fruitful land for the taking; it did not welcome the first pilgrims with open arms. Americans, from the start, were a hungry people — both literally and figuratively — that were willing to go to nearly any lengths to make this land their land. In his essay “What is Happening to America?”, John Steinbeck characterizes the American people as “a restless, a dissatisfied, a searching people”, while he later contradicts himself by admitting that they have “reached the end of a road and have discovered no new path to take, no duty to carry out, no purpose to fulfill” (Steinbeck 5, 8). However, these two seemingly polar-opposite statements are logically connected. Americans have always had the capacity for self-contradiction; in fact, they epitomize it.  In common knowledge, Americans are the people who came to this land in search of a better life than the one they left behind, ready to fight tooth and nail for it. But Steinbeck points out a contemporary pattern, in which Americans have begun to sink into the soft, enticing pillows of easy plenty. His warning emerges from a place of concern for post-World War II American society. Published in 1966, more than twenty years after the War, “What is Happening to America?” reflects on widespread social issues characteristic of the swelling self-satisfaction of a victorious nation. By highlighting the complacency of the American people and contrasting it against the image of Americans as a hungry, restless species, Steinbeck proposes a paradox that the American embodies.   
 American identity originates from paradox: a jumble of peoples with diverse religions, cultures, and races that came to form one nation. As Steinbeck states, “we built America, and the process made us Americans” (Steinbeck 5). It was restless spirit that drove American colonists to revolution and to founding a nation governed by its people. The perpetual dissatisfaction with the way things were became the firm refusal to be lorded over by the likes of kings and nobility, to be voicelessly subordinated to other’s interest. The ideals of self-sufficiency and equal opportunity became the pillars of American society.
