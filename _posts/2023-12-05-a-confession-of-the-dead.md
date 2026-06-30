@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "A Confession of the Dead"
-## inspired by *Orpheus Leading Eurydice from the Underworld* by Jean-Baptiste-Camille-Corot
 ---
+## inspired by *Orpheus Leading Eurydice from the Underworld* by Jean-Baptiste-Camille-Corot
 
 We watch from the trees as he takes her by the hand,
 
