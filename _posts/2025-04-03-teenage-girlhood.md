@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "teenage girlhood: the uncrackable code"
+title: "Teenage Girlhood: the Uncrackable Code"
 ---
 
 Belonging is often an illusion created by external perspectives. Understanding inherent social codes can be important to "fit in" with a certain group, but that doesn't mean one belongs in that group. For many, there is always peer pressure and a strong need for self-identity that causes them to forcefully conform to social codes. This artificial conforming that is driven by social constructs often does the exact opposite of providing people with the feeling of belonging, rather, it can cause people to easily feel out of place and even imposter syndrome. Sometimes, even the smallest differences between themselves and others can create feelings of anxiety and discontent as they strive to achieve what they define as a tangible (though always changing) idea of "normal". Although unspoken rules can be used to group people into social clusters, they often group people incorrectly as the rules do not define the individuals themselves and thus have no correlation to their true belonging to said cluster.
