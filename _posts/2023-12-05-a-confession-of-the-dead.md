@@ -9,7 +9,7 @@ fingers entwined in a promise,
 
 the boy whose mellifluous song poured
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unforgivingly
+&emsp;&emsp;unforgivingly
 
 into the ears of our queen born from a seed of bloodied fruit
 
@@ -18,13 +18,13 @@ till nascent tears sprung in her eyes.
 
 The only who has braved the darkness,
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the simple and maddening presence of nothing,
+&emsp;&emsp;the simple and maddening presence of nothing,
 
 unlike the others, whose outstretched hands became
 
 nothing but wisps of desiccated skin
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a trick of the light.
+&emsp;&emsp;a trick of the light.
 
 
 His bride is losing the blood that warmed her cheeks, 
@@ -36,5 +36,6 @@ yet each step he takes is surer than its forebear
 that brings our hands to the sides of his face.
 
 
-*Orpheus Leading Eurydice from the Underworld* by Jean-Baptiste-Camille-Corot
 ![*Orpheus Leading Eurydice from the Underworld*](https://upload.wikimedia.org/wikipedia/commons/b/b8/Jean-Baptiste-Camille_Corot_-_Orpheus_Leading_Eurydice_from_the_Underworld_-_Google_Art_Project.jpg)
+
+*Orpheus Leading Eurydice from the Underworld* by Jean-Baptiste-Camille-Corot
