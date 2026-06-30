@@ -5,7 +5,7 @@ subtitle: "A Synthesis Essay on Steinbeck's “What is Happening to America?” 
 ---
 ##### *{{ page.subtitle }}*
 ---
-<br></br>
+<br>
 ###### “In nothing are we so paradoxical as in our passionate belief in our own myths.” 
 -- John Steinbeck
  
