@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beauty as a Double-Edged Sword: “Red Clowns” (<i>The House on Mango Street</i>) and Society’s Depiction of Love"
+title: "Beauty as a Double-Edged Sword: “Red Clowns” and Society’s Depiction of Love"
 ---
 Society’s glorification of being desired puts young girls in danger. In Sandra Cisneros’ vignette “Red Clowns” from The House on Mango Street, Esperanza goes to a carnival with her friend Sally, who has already learned what benign perceived as a woman — not a girl — yields, and has adapted to it, even embraced it at times. Esperanza, however, does not, and discovers first-hand the dangers of womanhood when Sally leaves her alone at the carnival, to go off with a boy. Given Esperanza’s transitional age, Cisneros utilizes spinning, dizzying imagery and blunt, short sentence structure in order to portray a woman’s beauty as a double-edged sword — though it can be weaponized, it can also render the user herself vulnerable. 
 
