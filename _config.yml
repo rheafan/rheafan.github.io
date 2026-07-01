@@ -1,2 +1,5 @@
 theme: minima
 description: 2021-present
+
+exclude: README.md 
+
