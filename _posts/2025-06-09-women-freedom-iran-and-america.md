@@ -19,7 +19,7 @@ The Iranian women’s rights movement differs from the American as activists fou
 Though the respective contexts of the American and Iranian women’s rights movements dictate vastly different approaches and outcomes, the advancement of social media and shared concerns over sexual misconduct highlight their similarities.The American women’s rights movement peaked in the 1960s and 1970s, yet its effects and ideals continue to be seen today—not just within the US, but also in other countries such as Iran, which is continuing to struggle over women’s rights. Though the two movements are largely separated geographically and differ over their specific goals, they are connected by the same global struggle for women’s rights throughout the 20th and 21st centuries. The fact that the #MeToo movement was able to spread from its roots in America all the way to Iran and other countries not discussed here exemplifies how the advancement of technology and social media can help bring otherwise domestic struggles to a global stage, and give rise to a global struggle with global participation.
 
 ---
-
+<br>
 Works Cited
 
 Bazafkan, Homa. "'Women, Life, Freedom' a new revolutionary era in Iran." Vienna Institute for International Dialogue and Cooperation
