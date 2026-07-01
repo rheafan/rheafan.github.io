@@ -13,3 +13,20 @@ Though Khomeini said directly in his speech that Iran was not to be a so-called 
 Women as well as minorities (in terms of ethnicity, ideals, political standpoint, religion, etcetera) were supposed to have the same rights as all other Iranian citizens according to Khomeini’s philosophy. However, numerous cases of police brutality and discrimination have proved this wrong. In Khomeini’s “We Shall Confront the World with Our Ideology” speech, he loosely said that he would allow people the freedom of having different beliefs, so long as they do not “corrupt” the pure Islamic society and its people. If they did attempt to “corrupt”, however, they would face legal consequences. However, the Iranian police has been shown to repeatedly abuse their power in punishing and “weeding out” the “corruption” sown by “ungodly persons”. For example, Tehran’s Evin Prison became notorious after Nobel Prize winner and human rights activist Narges Mohammedi published a book, White Torture, on the Prison’s intelligence officers’ physical, mental, and sexual abuse of the imprisoned women. However, the Iranian government denied all such allegations and stated once again that the police were doing their job to stop the “disease” - referring to the women that protested against the head covering law - from spreading and keeping Iranian society “pure”. One of the main loopholes in Khomeini’s speech was his ambiguous treatment of “corruption”, which then in turn allowed government forces to abuse their power and deem anything or anyone against Khomeini and his ideals as “counterrevolutionary” and therefore corrupt. Besides women, Kurds, Turkmen, Sunnis, and left-wing revolutionaries were some among many other minorities that were targeted by Iran’s morality police and thrown into jail, put under house arrest, or at worst, executed. In fact, during the earlier years of the Islamic Republic (from 1981 to 1985), there were over 8,000 people executed for political reasons, and today, Iran continues to hold one of the world’s highest execution rates (Fathollah-Nejad). This has all further proven the Islamic Republic’s lack of adherence to Khomeini’s vision for all people, regardless of social class, to be equal before the law.
 
 Iran continues to be in social and economic turmoil, due to the lack of freedom present in its new government. Though the Islamic Republic did improve the lives of many, it still contradicts much of Khomeini’s vision for not only a pure Iranian society, but also a peaceful one, and its institutions continue to abuse some of the powers it is given in its constitution. 
+
+---
+<br>
+Works Cited
+
+"Iran (Islamic Republic Of)." Human Development Reports, United Nations Development Programme, 14 Mar. 2024
+
+Khomeini, Ayatollah. "We Shall Confront the World with Our Ideology." National Security Archive, 1 Apr. 1979
+
+Ghitis, Frida. "Opinion: This Nobel Prize Is for All the Women Fighting for Freedom in Iran." CNN Wire, 7 Oct. 2023. Gale in Context: Global Issues
+
+Fathollah-Nejad, Ali. "Four decades later, did the Iranian revolution fulfill its promises?" Brookings, 11 July 2019
+
+Khosravi, Shahram. "How the Other Half Lives in Iran." The New York Times, 14 Jan. 2018. The New York Times
+
+Boroumand, Ladan. "Iranians Turn Away from the Islamic Republic." Journal of Democracy
+
