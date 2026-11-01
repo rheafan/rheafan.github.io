@@ -2,7 +2,7 @@
 title: "La Llorona and Catherine Earnshaw: Nature, Femininity, and “What is a Quiet Earth?”"
 layout: post
 ---
-“I lingered around them, under that benign sky; watched the moths fluttering among the heath, and hare-bells; listened to the soft wind breathing through the grass; and wondered how anyone could ever imagine unquiet slumbers, for the sleepers in that quiet earth” (Bronte 334).
+_“I lingered around them, under that benign sky; watched the moths fluttering among the heath, and hare-bells; listened to the soft wind breathing through the grass; and wondered how anyone could ever imagine unquiet slumbers, for the sleepers in that quiet earth” (Bronte 334)._
 
 “Chica,” they used to tell me, voices rasping barely above a whisper, “Don’t go by the Rio Grande at night. Actually, you shouldn’t go near the gorge at all in monsoon season.” Monsoon to eight-year-old me meant endless bouts of sunshine rain, torrential downpours that went as quickly as they came. It meant less hours outside, more time spent watching the raindrops race each other down the windowpanes. And the old, superstitious women, bent with age but eyes alight with kindness, meant well in their warning. I hadn’t needed to ask why; they were eager to share. Once, they said, a very beautiful woman found out her Spaniard husband was unfaithful. In a fit of rage, she drowned her own children. But when she realized what she had done, she became consumed by grief, and promptly drowned herself. Now, she is a Hispanic-American folktale, by the name of La Llorona (“the weeping woman”). 
 
