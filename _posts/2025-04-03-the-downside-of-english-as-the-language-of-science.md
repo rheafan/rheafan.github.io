@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Sorry, what do you mean?": the Downside of English as the Language of Science"
+title: ""Sorry, what do you mean?": the Downside of English as the Language of Science"" 
 ---
 A foreign language will never be as fluent as a mother tongue. Writing scientific papers that use a great amount of technical language is not only challenging to do in a second language, it can result in crucial disparities between what is written in the paper versus what the writer intends to express. Though English may seem convenient as a universal language in the science world, it poses hindrances to those who learn it as a second language and are pressured to write papers in it -- such as a degree of uncomfortability, lack of precision, and lower work efficiency, all of which must be fairly taken into account by publishers. 
 
